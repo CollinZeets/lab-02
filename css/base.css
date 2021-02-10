@@ -18,3 +18,7 @@ main {
 div {
   width: 300px;
 }
+body {
+  font-family: "Tangerine", serif;
+  font-size: 20px;
+}
